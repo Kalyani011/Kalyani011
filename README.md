@@ -2,7 +2,7 @@
 
 👀 I’m interested in Artificial Intelligence, Optimisation, Environment, Sustainable Development, Ethical AI and Stranger Things!
 
-🌱 I’m currently learning fundamentals and advanced implementation of AI.
+🌱 I have a master's in Artificial Intelligence from University of Galway, Ireland.
 
 💞️ I’m looking to collaborate on sustainable AI projects.
 
